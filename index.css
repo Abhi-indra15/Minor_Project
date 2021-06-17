@@ -1,0 +1,134 @@
+/*--------------------------------------------------tag Selector------------------------------------------------------*/
+body{
+    width:auto;
+}
+h4,h6{
+    line-height: 2;
+}
+
+/*--------------------------------------------------id Selector------------------------------------------------------*/
+
+#title{
+    background-color: cornflowerblue;
+    line-height: 2;
+    color: #DDD;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;    
+}
+
+#contact-us{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#about-us{
+    background-color: #DEEDF0; ;
+}
+/*--------------------------------------------------Class Selector------------------------------------------------------*/
+.row{
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.about-p{
+    line-height: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.about-p1{
+    color:#0b72ad ;
+    line-height: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-fluid{
+    padding: 5% 20%;
+    
+}
+
+.college-img{
+         max-width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+        border-radius: 100%;
+        transition: width 2s, height 2s, transform 2s;
+}
+.college-img:hover {
+    width: 300px;
+    height: 300px;
+    transform: rotate(360deg);
+}
+.contact{
+    background-color: cornflowerblue;
+    padding-bottom: 2rem;
+}
+
+.learn-head{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    font-size: 5rem;
+}
+
+.about-head{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    color: cornflowerblue;
+    font-size: 5rem;
+    padding-top: 20px;
+}
+.contact-head{
+    color: white;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    font-size: 3rem;
+}
+.contact{
+    text-align: center;
+}
+
+.bottom-container{
+    background-color:cornflowerblue;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    text-align:center;
+    padding-bottom: 2.5px;
+}
+.social-link{
+    border-radius: 5px;
+    margin:0% 0.5%;
+}
+.copyright{
+    color:lavenderblush;
+    line-height: 1;
+}
+.container{
+    width: 100%;
+    padding: 5% 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

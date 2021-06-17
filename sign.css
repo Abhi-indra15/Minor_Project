@@ -1,0 +1,116 @@
+/****************************************************************/  
+#signup{
+    padding-top: 80px;
+}
+
+
+
+
+
+.navbar-brand{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;  
+}
+.nav-item{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+}
+.about-head{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    color: cornflowerblue;
+    font-size: 5rem;
+    padding-top: 20px;
+}
+.contact-head{
+    color: white;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    font-size: 3rem;
+}
+.contact{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding-bottom: 2rem;
+}
+.footer{
+    background-color:cornflowerblue;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    text-align:center;
+    padding-bottom: 1px;
+}
+.copyright{
+    color:lavenderblush;
+    line-height: 1;
+}
+.social-link{
+    border-radius: 5px;
+    margin:0% 0.5%;
+}
+
+/*********************************************************************************/
+
+
+.border-md {
+    border-width: 2px;
+}
+
+.btn-facebook {
+    background: #405D9D;
+    border: none;
+}
+
+.btn-facebook:hover, .btn-facebook:focus {
+    background: #314879;
+}
+
+.btn-twitter {
+    background: #42AEEC;
+    border: none;
+}
+
+.btn-twitter:hover, .btn-twitter:focus {
+    background: #1799e4;
+}
+
+
+/**********************************************************************************/
+
+body {
+    min-height: 100vh;
+    background-color: #DEEDF0; 
+       
+}
+
+.form-control:not(select) {
+    padding: 1.5rem 0.5rem;
+}
+
+select.form-control {
+    height: 52px;
+    padding-left: 0.5rem;
+}
+
+.form-control::placeholder {
+    color: #ccc;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+
+.form-head{
+    color: #1799e4;
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+

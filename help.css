@@ -1,0 +1,80 @@
+/*--------------------------------------------------tag Selector------------------------------------------------------*/
+body{
+    width:auto;
+}
+h4,h6{
+    line-height: 2;
+}
+
+/*--------------------------------------------------id Selector------------------------------------------------------*/
+
+#title{
+    line-height: 2;
+    color: #DDD;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;    
+}
+
+#contact-us{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+/*--------------------------------------------------Class Selector------------------------------------------------------*/
+.container-fluid{
+    padding: 5% 20%;
+    
+}
+.contact{
+    background-color: cornflowerblue;
+    padding-bottom: 2rem;
+}
+.about-head{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    color: cornflowerblue;
+    font-size: 5rem;
+    padding-top: 20px;
+}
+.contact-head{
+    color: white;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    font-size: 3rem;
+}
+.contact{
+    text-align: center;
+}
+
+.bottom-container{
+    background-color:cornflowerblue;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    text-align:center;
+    padding-bottom: 2.5px;
+}
+.social-link{
+    border-radius: 5px;
+    margin:0% 0.5%;
+}
+.copyright{
+    color:lavenderblush;
+    line-height: 1;
+}
+
+
+.qa{
+    font-family: cursive;
+}
+
+.Faq-head{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.collapsed{
+    
+    font-size: 1.5rem;
+    font-weight: bold;
+}

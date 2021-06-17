@@ -1,0 +1,119 @@
+/*--------------------------------------------------tag Selector------------------------------------------------------*/
+body{
+    width:auto;
+}
+h4,h6{
+    line-height: 2;
+}
+
+/*--------------------------------------------------id Selector------------------------------------------------------*/
+
+#title{
+    background-color: #DEEDF0; 
+    line-height: 2;
+    color: #DDD;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;    
+}
+
+#contact-us{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#team{
+    background-color: #DEEDF0; 
+}
+/*--------------------------------------------------Class Selector------------------------------------------------------*/
+.container-fluid{
+    padding: 5% 20%;
+    
+}
+.contact{
+    background-color: cornflowerblue;
+    padding-bottom: 2rem;
+}
+.about-head{
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    color: cornflowerblue;
+    font-size: 5rem;
+    padding-top: 20px;
+}
+.contact-head{
+    color: white;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    font-size: 3rem;
+}
+.contact{
+    text-align: center;
+}
+
+.bottom-container{
+    background-color:cornflowerblue;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Lora', serif;
+    text-align:center;
+    padding-bottom: 2.5px;
+}
+.social-link{
+    border-radius: 5px;
+    margin:0% 0.5%;
+}
+.copyright{
+    color:lavenderblush;
+    line-height: 1;
+}
+/**************************************************************************************/
+.card-box {
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+
+.social-links li a {
+    border-radius: 50%;
+    color: rgba(121, 121, 121, .8);
+    display: inline-block;
+    height: 30px;
+    line-height: 27px;
+    border: 2px solid rgba(121, 121, 121, .5);
+    text-align: center;
+    width: 30px
+}
+
+.social-links li a:hover {
+    color: #797979;
+    border: 2px solid #797979
+}
+.thumb-lg {
+    height: 88px;
+    width: 88px;
+}
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+.text-pink {
+    color: #ff679b!important;
+}
+.btn-rounded {
+    border-radius: 2em;
+}
+.text-muted {
+    color: #98a6ad!important;
+}
+h4 {
+    line-height: 22px;
+    font-size: 18px;
+}
+.mail{
+    color: #fff;
+}
